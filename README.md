@@ -38,3 +38,5 @@ expected to be handled appropriately.
 human player, A single character for the second human player
 - A single character for the computer.
 • These configurations should come from a file
+
+# Functional Programming used instead of OOP
